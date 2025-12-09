@@ -231,9 +231,12 @@ Este es un ejercicio educativo. Siéntete libre de:
 - Mejorar las visualizaciones
 - Añadir tests estadísticos
 
-## Test Quiz
+## Test Quiz de Prueba del día 4
 
 ![TEST](testNegativo.png)
+
+## Matriz de Correlación Estudiantil
+![Matriz](matriz_correlacion_estudiantil.png)
 
 ## 📄 Licencia
 
